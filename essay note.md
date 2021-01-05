@@ -92,12 +92,12 @@ The negative value is present the pairs have no correlation, rather than opposit
 2. cross-city: Using the similar area of known cities (CBD for example).
 3. Leverage & combine: If the historical records are not sufficient, we can rely on social media check-ins.
 
-## Bayesian Discovery of Multiple Bayesian Networksvia Transfer Learning
+## Bayesian Discovery of Multiple Bayesian Networks via Transfer Learning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzY2OTQ4NywxMjc1MTE0MDQyLC03Mj
-IxODEzMTQsLTExMzczODM0NzksLTI1MjMxMDY5OCwzMDgyODI2
-MTAsMTc1ODM5NDg3OSwtMTgyMjc0NTg5OSwxMzA0Mjk0MzIxLD
-E0MTgzMzg5NzgsNDk3MTc1MTY2LDI5NTY5NTk3NCw1NTQ3NzMz
-MDddfQ==
+eyJoaXN0b3J5IjpbODEzODEzMzA5LDEyNzUxMTQwNDIsLTcyMj
+E4MTMxNCwtMTEzNzM4MzQ3OSwtMjUyMzEwNjk4LDMwODI4MjYx
+MCwxNzU4Mzk0ODc5LC0xODIyNzQ1ODk5LDEzMDQyOTQzMjEsMT
+QxODMzODk3OCw0OTcxNzUxNjYsMjk1Njk1OTc0LDU1NDc3MzMw
+N119
 -->
