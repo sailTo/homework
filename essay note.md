@@ -88,9 +88,9 @@ The negative value is present the pairs have no correlation, rather than opposit
    2. transfer learning. In some field, not-best decision may cause a minor trouble, while in some decision making process that is of high cost (like site choosing).
    3. Heterogeneous Data Modalities. Compare with traditional transfer learning, witch transfers knowledge between domains of the same data modality; the smart city build on heterogeneous data with diverse formats.
 ### What to transfer?
-1. cross-modality: Use data modalities collected from existing services to learn the patterns in the new data modality of the targeted service. *e.g* taxi$\rightarrow$ ridesharing cars.
+1. cross-modality: Use data modalities collected from existing services to learn the patterns in the new data modality of the targeted service. *e.g* taxi$\rightarrow$ ridesharing cars. Data provided by cit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI3NDU4OTksMTMwNDI5NDMyMSwxND
-E4MzM4OTc4LDQ5NzE3NTE2NiwyOTU2OTU5NzQsNTU0NzczMzA3
-XX0=
+eyJoaXN0b3J5IjpbLTUxMDkzNzczLC0xODIyNzQ1ODk5LDEzMD
+QyOTQzMjEsMTQxODMzODk3OCw0OTcxNzUxNjYsMjk1Njk1OTc0
+LDU1NDc3MzMwN119
 -->
