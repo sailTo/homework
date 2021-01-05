@@ -87,8 +87,10 @@ The negative value is present the pairs have no correlation, rather than opposit
    1. urban computing:predict traffic demand or air quality [2][8]. Fine-gained/missing-value prediction & Future prediction; detect abnormal events or objects; find appropriate sites for deploying.
    2. transfer learning. In some field, not-best decision may cause a minor trouble, while in some decision making process that is of high cost (like site choosing).
    3. Heterogeneous Data Modalities. Compare with traditional transfer learning, witch transfers knowledge between domains of the same data modality; the smart city build on heterogeneous data with diverse formats.
-   4. 
+### What to transfer?
+1. cross-modality:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDI5NDMyMSwxNDE4MzM4OTc4LDQ5Nz
-E3NTE2NiwyOTU2OTU5NzQsNTU0NzczMzA3XX0=
+eyJoaXN0b3J5IjpbMTcyNjU5ODE5NiwxMzA0Mjk0MzIxLDE0MT
+gzMzg5NzgsNDk3MTc1MTY2LDI5NTY5NTk3NCw1NTQ3NzMzMDdd
+fQ==
 -->
