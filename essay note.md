@@ -95,9 +95,5 @@ The negative value is present the pairs have no correlation, rather than opposit
 ## Bayesian Discovery of Multiple Bayesian Networks via Transfer Learning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzODEzMzA5LDEyNzUxMTQwNDIsLTcyMj
-E4MTMxNCwtMTEzNzM4MzQ3OSwtMjUyMzEwNjk4LDMwODI4MjYx
-MCwxNzU4Mzk0ODc5LC0xODIyNzQ1ODk5LDEzMDQyOTQzMjEsMT
-QxODMzODk3OCw0OTcxNzUxNjYsMjk1Njk1OTc0LDU1NDc3MzMw
-N119
+eyJoaXN0b3J5IjpbODEzODEzMzA5XX0=
 -->
