@@ -90,10 +90,10 @@ The negative value is present the pairs have no correlation, rather than opposit
 ### What to transfer?
 1. cross-modality: Use data modalities collected from existing services to learn the patterns in the new data modality of the targeted service. *e.g* taxi$\rightarrow$ ride-sharing cars. Users’ social posts and activities can be seen as useful proxies of urban dynamics.
 2. cross-city: Using the similar area of known cities (CBD for example).
-3. Leverage & combine
+3. Leverage & combine: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjE4MTMxNCwtMTEzNzM4MzQ3OSwtMj
-UyMzEwNjk4LDMwODI4MjYxMCwxNzU4Mzk0ODc5LC0xODIyNzQ1
-ODk5LDEzMDQyOTQzMjEsMTQxODMzODk3OCw0OTcxNzUxNjYsMj
-k1Njk1OTc0LDU1NDc3MzMwN119
+eyJoaXN0b3J5IjpbMTg5MzU4ODA4LC03MjIxODEzMTQsLTExMz
+czODM0NzksLTI1MjMxMDY5OCwzMDgyODI2MTAsMTc1ODM5NDg3
+OSwtMTgyMjc0NTg5OSwxMzA0Mjk0MzIxLDE0MTgzMzg5NzgsND
+k3MTc1MTY2LDI5NTY5NTk3NCw1NTQ3NzMzMDddfQ==
 -->
