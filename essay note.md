@@ -80,13 +80,11 @@ The negative value is present the pairs have no correlation, rather than opposit
     
     HFA[66,67]:![image-20210102101325863](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210102101325863.png)
     
--   ![image-20210102105213024](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210102105213024.png)
-    
-    ​ is nontrivial, apply linear technique.
-    :
+-   ![image-20210102105213024](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210102105213024.png)​ is nontrivial, apply linear technique.
+
 ## Smart City Development with Urban Transfer Learning
 
-   1. urban computing
+   1. urban computing:predict traffic demand or air quality [2][8]. Fine-gained/missing-value predict
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NTIzMjA0LDU1NDc3MzMwN119
+eyJoaXN0b3J5IjpbLTE1Mjg1MzU2MzAsNTU0NzczMzA3XX0=
 -->
