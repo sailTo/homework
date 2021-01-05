@@ -85,8 +85,8 @@ The negative value is present the pairs have no correlation, rather than opposit
 ## Smart City Development with Urban Transfer Learning
 
    1. urban computing:predict traffic demand or air quality [2][8]. Fine-gained/missing-value prediction & Future prediction; detect abnormal events or objects; find appropriate sites for deploying.
-   2. transfer learning.
+   2. transfer learning. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3MTc1MTY2LDI5NTY5NTk3NCw1NTQ3Nz
-MzMDddfQ==
+eyJoaXN0b3J5IjpbNjYxNTAzODYyLDQ5NzE3NTE2NiwyOTU2OT
+U5NzQsNTU0NzczMzA3XX0=
 -->
