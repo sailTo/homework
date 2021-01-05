@@ -93,7 +93,7 @@ The negative value is present the pairs have no correlation, rather than opposit
 3. Leverage & combine: If the historical records are not sufficient, we can rely on social media check-ins.
 
 ## Bayesian Discovery of Multiple Bayesian Networks via Transfer Learning
-
+Bayesi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzODEzMzA5XX0=
+eyJoaXN0b3J5IjpbMTUxNzQxMzIxMiw4MTM4MTMzMDldfQ==
 -->
