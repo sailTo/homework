@@ -91,9 +91,13 @@ The negative value is present the pairs have no correlation, rather than opposit
 1. cross-modality: Use data modalities collected from existing services to learn the patterns in the new data modality of the targeted service. *e.g* taxi$\rightarrow$ ride-sharing cars. Users’ social posts and activities can be seen as useful proxies of urban dynamics.
 2. cross-city: Using the similar area of known cities (CBD for example).
 3. Leverage & combine: If the historical records are not sufficient, we can rely on social media check-ins.
+
+## Bayesian Discovery of Multiple Bayesian Networksvia Transfer Learning
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTExNDA0MiwtNzIyMTgxMzE0LC0xMT
-M3MzgzNDc5LC0yNTIzMTA2OTgsMzA4MjgyNjEwLDE3NTgzOTQ4
-NzksLTE4MjI3NDU4OTksMTMwNDI5NDMyMSwxNDE4MzM4OTc4LD
-Q5NzE3NTE2NiwyOTU2OTU5NzQsNTU0NzczMzA3XX0=
+eyJoaXN0b3J5IjpbLTY5MzY2OTQ4NywxMjc1MTE0MDQyLC03Mj
+IxODEzMTQsLTExMzczODM0NzksLTI1MjMxMDY5OCwzMDgyODI2
+MTAsMTc1ODM5NDg3OSwtMTgyMjc0NTg5OSwxMzA0Mjk0MzIxLD
+E0MTgzMzg5NzgsNDk3MTc1MTY2LDI5NTY5NTk3NCw1NTQ3NzMz
+MDddfQ==
 -->
