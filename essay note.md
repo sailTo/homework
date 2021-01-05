@@ -83,6 +83,10 @@ The negative value is present the pairs have no correlation, rather than opposit
 -   ![image-20210102105213024](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210102105213024.png)
     
     ​ is nontrivial, apply linear technique.
+    :
+## Smart City Development with Urban Transfer Learning
+
+   1. urban computing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0NzczMzA3XX0=
+eyJoaXN0b3J5IjpbOTM5NTIzMjA0LDU1NDc3MzMwN119
 -->
