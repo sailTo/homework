@@ -94,7 +94,8 @@ The negative value is present the pairs have no correlation, rather than opposit
 
 ## Bayesian Discovery of Multiple Bayesian Networks via Transfer Learning
 Bayesian: minimize weighted risk by classifying
-$P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
+$P(c|x)=\frac{P(c)P(x|c)}{P(x)}$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUwMzgwOTAsODEzODEzMzA5XX0=
+eyJoaXN0b3J5IjpbMTkxMjUwMDQ3OCwtMTEyNTAzODA5MCw4MT
+M4MTMzMDldfQ==
 -->
