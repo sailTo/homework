@@ -93,7 +93,8 @@ The negative value is present the pairs have no correlation, rather than opposit
 3. Leverage & combine: If the historical records are not sufficient, we can rely on social media check-ins.
 
 ## Bayesian Discovery of Multiple Bayesian Networks via Transfer Learning
-Bayesian: weighted minimum
+Bayesian: minimize weighted risk by classifying
+$P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMzE0MTgwLDgxMzgxMzMwOV19
+eyJoaXN0b3J5IjpbLTExMjUwMzgwOTAsODEzODEzMzA5XX0=
 -->
