@@ -100,9 +100,10 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 
 ![Image-20210113001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210113001.png)By using L2T agent learns a function $f$ such that $f(S_e,T_e,W_e)$ approximates $l_e$, optimize the $W$ by maximizing the value of $f$.
 - Common Latent Space Based
-  $Z=\phi(X)$
+  $Z=\phi(X)$, $G=(X)Z(Z)^T [X^T]$ according to $XG(X)^T=Z(Z)^T$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg1NzQzNzYsLTE4MDQwMzY1MzAsMT
-QyNDAyOTI1OCwtODY4NjM4OTQsMTkzMjg4OTQwMywxOTEyNTAw
-NDc4LC0xMTI1MDM4MDkwLDgxMzgxMzMwOV19
+eyJoaXN0b3J5IjpbLTEzNDg5MzU5ODMsLTIwNDg1NzQzNzYsLT
+E4MDQwMzY1MzAsMTQyNDAyOTI1OCwtODY4NjM4OTQsMTkzMjg4
+OTQwMywxOTEyNTAwNDc4LC0xMTI1MDM4MDkwLDgxMzgxMzMwOV
+19
 -->
