@@ -104,10 +104,12 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 - Manifold Ensemble Based
     $Z=[\phi_1(X),\phi_2(X),\dots,\phi_n(X)], n\rightarrow \infty$
 - difference between a source and a target domain![image-20210114212107696](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210114212107696.png)
-- 
+### To Transfer or Not To Transfer
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjAxOTU4MywxODA4NjI5NzczLDExMj
-k5ODY0MDEsMjA5OTU1NzQ2NCwtMjA0ODU3NDM3NiwtMTgwNDAz
-NjUzMCwxNDI0MDI5MjU4LC04Njg2Mzg5NCwxOTMyODg5NDAzLD
-E5MTI1MDA0NzgsLTExMjUwMzgwOTAsODEzODEzMzA5XX0=
+eyJoaXN0b3J5IjpbLTY3OTQ5OTUsMjA2NjAxOTU4MywxODA4Nj
+I5NzczLDExMjk5ODY0MDEsMjA5OTU1NzQ2NCwtMjA0ODU3NDM3
+NiwtMTgwNDAzNjUzMCwxNDI0MDI5MjU4LC04Njg2Mzg5NCwxOT
+MyODg5NDAzLDE5MTI1MDA0NzgsLTExMjUwMzgwOTAsODEzODEz
+MzA5XX0=
 -->
