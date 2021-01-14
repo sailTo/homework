@@ -97,8 +97,9 @@ Bayesian: minimize weighted risk by classifying
 $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$ 
 
 ## Transfer Learning via Learning to Transfer
-![Image-20210113001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210113001.png)
+![Image-20210113001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210113001.png)By using L2T ag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODYzODk0LDE5MzI4ODk0MDMsMTkxMj
-UwMDQ3OCwtMTEyNTAzODA5MCw4MTM4MTMzMDldfQ==
+eyJoaXN0b3J5IjpbLTMzMjg1Mjc4NywtODY4NjM4OTQsMTkzMj
+g4OTQwMywxOTEyNTAwNDc4LC0xMTI1MDM4MDkwLDgxMzgxMzMw
+OV19
 -->
