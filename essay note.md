@@ -102,9 +102,10 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 - Common Latent Space Based
   $Z=\phi(X)$, $G=(X)Z(Z)^T [X^T]$ according to $XG(X)^T=Z(Z)^T$.
   - Manifold Ensemble Based
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTU1NzQ2NCwtMjA0ODU3NDM3NiwtMT
-gwNDAzNjUzMCwxNDI0MDI5MjU4LC04Njg2Mzg5NCwxOTMyODg5
-NDAzLDE5MTI1MDA0NzgsLTExMjUwMzgwOTAsODEzODEzMzA5XX
-0=
+eyJoaXN0b3J5IjpbLTE2MDEwMDY1MywyMDk5NTU3NDY0LC0yMD
+Q4NTc0Mzc2LC0xODA0MDM2NTMwLDE0MjQwMjkyNTgsLTg2ODYz
+ODk0LDE5MzI4ODk0MDMsMTkxMjUwMDQ3OCwtMTEyNTAzODA5MC
+w4MTM4MTMzMDldfQ==
 -->
