@@ -103,10 +103,11 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
   $Z=\phi(X)$, $G=(X)Z(Z)^T [X^T]$ according to $XG(X)^T=Z(Z)^T$.
 - Manifold Ensemble Based
     $Z=[\phi_1(X),\phi_2(X),\dots,\phi_n(X)], n\rightarrow \infty$
+- difference between a source and a target domain![image-20210114212107696](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210114212107696.png)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjA4Mzk3LDE4MDg2Mjk3NzMsMTEyOT
-k4NjQwMSwyMDk5NTU3NDY0LC0yMDQ4NTc0Mzc2LC0xODA0MDM2
-NTMwLDE0MjQwMjkyNTgsLTg2ODYzODk0LDE5MzI4ODk0MDMsMT
-kxMjUwMDQ3OCwtMTEyNTAzODA5MCw4MTM4MTMzMDldfQ==
+eyJoaXN0b3J5IjpbMjA2NjAxOTU4MywxODA4NjI5NzczLDExMj
+k5ODY0MDEsMjA5OTU1NzQ2NCwtMjA0ODU3NDM3NiwtMTgwNDAz
+NjUzMCwxNDI0MDI5MjU4LC04Njg2Mzg5NCwxOTMyODg5NDAzLD
+E5MTI1MDA0NzgsLTExMjUwMzgwOTAsODEzODEzMzA5XX0=
 -->
