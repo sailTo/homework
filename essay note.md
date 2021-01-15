@@ -106,11 +106,12 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 - difference between a source and a target domain![image-20210114212107696](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210114212107696.png)
 ## To Transfer or Not To Transfer
 **Hierarchical Naive Bayes**: *flat naive Bayes* proven to be effective in classifiers in non-transfer settings.
- 
+transfer w hurt performance if the sources of data are too dissimilar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzM3MTQ5NywtMTE5NTE3NDM1NiwtNj
-c5NDk5NSwyMDY2MDE5NTgzLDE4MDg2Mjk3NzMsMTEyOTk4NjQw
-MSwyMDk5NTU3NDY0LC0yMDQ4NTc0Mzc2LC0xODA0MDM2NTMwLD
-E0MjQwMjkyNTgsLTg2ODYzODk0LDE5MzI4ODk0MDMsMTkxMjUw
-MDQ3OCwtMTEyNTAzODA5MCw4MTM4MTMzMDldfQ==
+eyJoaXN0b3J5IjpbLTI3NTcwNDU2MCwyMDIzMzcxNDk3LC0xMT
+k1MTc0MzU2LC02Nzk0OTk1LDIwNjYwMTk1ODMsMTgwODYyOTc3
+MywxMTI5OTg2NDAxLDIwOTk1NTc0NjQsLTIwNDg1NzQzNzYsLT
+E4MDQwMzY1MzAsMTQyNDAyOTI1OCwtODY4NjM4OTQsMTkzMjg4
+OTQwMywxOTEyNTAwNDc4LC0xMTI1MDM4MDkwLDgxMzgxMzMwOV
+19
 -->
