@@ -106,8 +106,9 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 - difference between a source and a target domain![image-20210114212107696](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210114212107696.png)
 ## To Transfer or Not To Transfer
 **Hierarchical Naive Bayes**: 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI0MDg3MDYsLTY3OTQ5OTUsMjA2Nj
+eyJoaXN0b3J5IjpbLTExOTUxNzQzNTYsLTY3OTQ5OTUsMjA2Nj
 AxOTU4MywxODA4NjI5NzczLDExMjk5ODY0MDEsMjA5OTU1NzQ2
 NCwtMjA0ODU3NDM3NiwtMTgwNDAzNjUzMCwxNDI0MDI5MjU4LC
 04Njg2Mzg5NCwxOTMyODg5NDAzLDE5MTI1MDA0NzgsLTExMjUw
