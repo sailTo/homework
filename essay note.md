@@ -105,13 +105,13 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
     $Z=[\phi_1(X),\phi_2(X),\dots,\phi_n(X)], n\rightarrow \infty$
 - difference between a source and a target domain![image-20210114212107696](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210114212107696.png)
 ## To Transfer or Not To Transfer
-**Hierarchical Naive Bayes**: *flat naive Bayes* proven to be effective in classifiers in non-transfer settings.
-transfer w hurt performance if the sources of data are too dissimilar
+**Hierarchical Naive Bayes**: *flat naive Bayes* proven to be effective in classifiers in non-transfer settings. avoid negative transfer, indeed it does so well compared to the flat algorithm.
+transfer will hurt performance if the sources of data are too dissimilar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTcwNDU2MCwyMDIzMzcxNDk3LC0xMT
-k1MTc0MzU2LC02Nzk0OTk1LDIwNjYwMTk1ODMsMTgwODYyOTc3
-MywxMTI5OTg2NDAxLDIwOTk1NTc0NjQsLTIwNDg1NzQzNzYsLT
-E4MDQwMzY1MzAsMTQyNDAyOTI1OCwtODY4NjM4OTQsMTkzMjg4
-OTQwMywxOTEyNTAwNDc4LC0xMTI1MDM4MDkwLDgxMzgxMzMwOV
-19
+eyJoaXN0b3J5IjpbLTExNjI5OTQwODAsMjAyMzM3MTQ5NywtMT
+E5NTE3NDM1NiwtNjc5NDk5NSwyMDY2MDE5NTgzLDE4MDg2Mjk3
+NzMsMTEyOTk4NjQwMSwyMDk5NTU3NDY0LC0yMDQ4NTc0Mzc2LC
+0xODA0MDM2NTMwLDE0MjQwMjkyNTgsLTg2ODYzODk0LDE5MzI4
+ODk0MDMsMTkxMjUwMDQ3OCwtMTEyNTAzODA5MCw4MTM4MTMzMD
+ldfQ==
 -->
