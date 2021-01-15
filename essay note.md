@@ -105,12 +105,12 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
     $Z=[\phi_1(X),\phi_2(X),\dots,\phi_n(X)], n\rightarrow \infty$
 - difference between a source and a target domain![image-20210114212107696](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210114212107696.png)
 ## To Transfer or Not To Transfer
-**Hierarchical Naive Bayes**: 
-*flat naive Bayes*.
+**Hierarchical Naive Bayes**: *flat naive Bayes* proven to be effective in classifiers in non-transfer settings.
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYxMTI2ODQsLTExOTUxNzQzNTYsLT
-Y3OTQ5OTUsMjA2NjAxOTU4MywxODA4NjI5NzczLDExMjk5ODY0
-MDEsMjA5OTU1NzQ2NCwtMjA0ODU3NDM3NiwtMTgwNDAzNjUzMC
-wxNDI0MDI5MjU4LC04Njg2Mzg5NCwxOTMyODg5NDAzLDE5MTI1
-MDA0NzgsLTExMjUwMzgwOTAsODEzODEzMzA5XX0=
+eyJoaXN0b3J5IjpbMjAyMzM3MTQ5NywtMTE5NTE3NDM1NiwtNj
+c5NDk5NSwyMDY2MDE5NTgzLDE4MDg2Mjk3NzMsMTEyOTk4NjQw
+MSwyMDk5NTU3NDY0LC0yMDQ4NTc0Mzc2LC0xODA0MDM2NTMwLD
+E0MjQwMjkyNTgsLTg2ODYzODk0LDE5MzI4ODk0MDMsMTkxMjUw
+MDQ3OCwtMTEyNTAzODA5MCw4MTM4MTMzMDldfQ==
 -->
