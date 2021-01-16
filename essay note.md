@@ -107,6 +107,8 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 ## To Transfer or Not To Transfer
 **Hierarchical Naive Bayes**: *flat naive Bayes* proven to be effective in classifiers in non-transfer settings， avoid negative transfer, it does well compared to the flat algorithm.
 transfer will hurt performance if the sources of data are too dissimilar.
+## Correcting Sample Selection Bias by Unlabeled Data
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc0MDE1NjldfQ==
+eyJoaXN0b3J5IjpbMTI1Njk2MzUyMSwtMTg4NzQwMTU2OV19
 -->
