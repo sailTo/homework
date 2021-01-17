@@ -109,8 +109,10 @@ $P(c|x)=\frac{P(c)P(x|c)}{P(x)}$
 transfer will hurt performance if the sources of data are too dissimilar.
 
 ## Correcting Sample Selection Bias by Unlabeled Data
-## 1Spatial-Aware Hierarchical Collaborative DeepLearning for POI Recommendation
+
+## Spatial-Aware Hierarchical Collaborative Deep Learning for POI Recommendation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzIyOTY5OSwxNDc0NTQ2NDUxLC0xOD
-g3NDAxNTY5XX0=
+eyJoaXN0b3J5IjpbLTExMDI2MjcyMjgsMTQ3NDU0NjQ1MSwtMT
+g4NzQwMTU2OV19
 -->
