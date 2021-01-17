@@ -117,7 +117,5 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ![image-20210117092712533](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117092712533.png)    	**Replicated Softmax Model**
 ![image-20210117093341356](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117093341356.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzEyOTcwMywtMTQ0MTk0NTM3OCwyMT
-AxNzc3MjgzLC0xMTAyNjI3MjI4LDE0NzQ1NDY0NTEsLTE4ODc0
-MDE1NjldfQ==
+eyJoaXN0b3J5IjpbLTgwNzEyOTcwM119
 -->
