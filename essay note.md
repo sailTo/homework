@@ -111,8 +111,8 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ## Correcting Sample Selection Bias by Unlabeled Data
 
 ## Spatial-Aware Hierarchical Collaborative Deep Learning for POI Recommendation
-
+**Restricted Boltzmann Machine**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI2MjcyMjgsMTQ3NDU0NjQ1MSwtMT
-g4NzQwMTU2OV19
+eyJoaXN0b3J5IjpbMjEwMTc3NzI4MywtMTEwMjYyNzIyOCwxND
+c0NTQ2NDUxLC0xODg3NDAxNTY5XX0=
 -->
