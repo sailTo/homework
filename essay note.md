@@ -112,7 +112,12 @@ transfer will hurt performance if the sources of data are too dissimilar.
 
 ## Spatial-Aware Hierarchical Collaborative Deep Learning for POI Recommendation
 **Restricted Boltzmann Machine**: 
+![image-20210117092632275](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117092632275.png)
+
+![image-20210117092651778](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117092651778.png)
+
+![image-20210117092712533](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117092712533.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTc3NzI4MywtMTEwMjYyNzIyOCwxND
-c0NTQ2NDUxLC0xODg3NDAxNTY5XX0=
+eyJoaXN0b3J5IjpbLTY3NjU4OTI5MiwyMTAxNzc3MjgzLC0xMT
+AyNjI3MjI4LDE0NzQ1NDY0NTEsLTE4ODc0MDE1NjldfQ==
 -->
