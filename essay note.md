@@ -82,6 +82,9 @@ The negative value is present the pairs have no correlation, rather than opposit
     
 -   ![image-20210102105213024](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210102105213024.png)​ is nontrivial, apply linear technique.
 
+
+
+The above-mentioned TaskTrAdaBoost and LWE ap-proaches mainly focus on the ensemble process. In con-trast, some studies focus more on the construction of weaklearner
 ## Smart City Development with Urban Transfer Learning
 
    1. urban computing:predict traffic demand or air quality [2][8]. Fine-gained/missing-value prediction & Future prediction; detect abnormal events or objects; find appropriate sites for deploying.
@@ -117,5 +120,5 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ![image-20210117092712533](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117092712533.png)    	**Replicated Softmax Model**
 ![image-20210117093341356](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117093341356.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzEyOTcwM119
+eyJoaXN0b3J5IjpbLTYzOTc0MTQ5MiwtODA3MTI5NzAzXX0=
 -->
