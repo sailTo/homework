@@ -120,8 +120,8 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ![image-20210117092712533](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117092712533.png)    	**Replicated Softmax Model**
 ![image-20210117093341356](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117093341356.png)
 ## Multi-task based Sales Predictions for Online Promotions
-
+![Image-20210228001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210228001.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTU1NjczMCwtNzE4MTYxMDM2LC02Mz
-k3NDE0OTIsLTgwNzEyOTcwM119
+eyJoaXN0b3J5IjpbMTIzMzU5NzAyMywtMzg1NTU2NzMwLC03MT
+gxNjEwMzYsLTYzOTc0MTQ5MiwtODA3MTI5NzAzXX0=
 -->
