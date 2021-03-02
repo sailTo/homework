@@ -120,8 +120,10 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ![image-20210117092712533](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117092712533.png)    	**Replicated Softmax Model**
 ![image-20210117093341356](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210117093341356.png)
 ## Multi-task based Sales Predictions for Online Promotions
-![Image-20210228001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210228001.png)
+![Image-20210228001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210228001.png)1. can not utilize historical data in the promotions of previous years to train model because the the large quantity.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzU5NzAyMywtMzg1NTU2NzMwLC03MT
-gxNjEwMzYsLTYzOTc0MTQ5MiwtODA3MTI5NzAzXX0=
+eyJoaXN0b3J5IjpbMjA2NjQ4Nzk2NSwxMjMzNTk3MDIzLC0zOD
+U1NTY3MzAsLTcxODE2MTAzNiwtNjM5NzQxNDkyLC04MDcxMjk3
+MDNdfQ==
 -->
