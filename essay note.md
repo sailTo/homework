@@ -122,9 +122,9 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ## Multi-task based Sales Predictions for Online Promotions
 ![Image-20210228001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210228001.png)Data 
 1. can not utilize historical data in the promotions of previous years to train model because the the large quantity.
-2. use part of 
+2. use part of static
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDkwNzE3ODYsMTIzMzU5NzAyMywtMz
-g1NTU2NzMwLC03MTgxNjEwMzYsLTYzOTc0MTQ5MiwtODA3MTI5
-NzAzXX0=
+eyJoaXN0b3J5IjpbMzYzMjE5MTEyLC0yMDA5MDcxNzg2LDEyMz
+M1OTcwMjMsLTM4NTU1NjczMCwtNzE4MTYxMDM2LC02Mzk3NDE0
+OTIsLTgwNzEyOTcwM119
 -->
