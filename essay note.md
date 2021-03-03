@@ -122,9 +122,10 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ## Multi-task based Sales Predictions for Online Promotions
 ![Image-20210228001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210228001.png)Data 
 1. can not utilize historical data in the promotions of previous years to train model because the the storage cost of historic data is infeasible.
-2. use part of static/dynamic feature according to the items' profiles and sales won't work because transaction volume on specific 
+2. use part of static/dynamic feature according to the items' profiles and sales won't work in SPOP because transaction volume on specific days cannot suit well.
+3. single task learning is wasteful for multi-dimention
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgzMjEyMTEsMTEwNTU1Njc5MCwtOT
+eyJoaXN0b3J5IjpbLTE2NjU2NzYwOTQsMTEwNTU1Njc5MCwtOT
 Q1MTIyNzY1LC0yMDA5MDcxNzg2LDEyMzM1OTcwMjMsLTM4NTU1
 NjczMCwtNzE4MTYxMDM2LC02Mzk3NDE0OTIsLTgwNzEyOTcwM1
 19
