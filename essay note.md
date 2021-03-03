@@ -126,9 +126,12 @@ transfer will hurt performance if the sources of data are too dissimilar.
 3. single task learning is wasteful for multi-dimension real-time demands.
 4. LSTM & GRU treat every input fairly while user impact (indirect) &item (direct) features have different affection rate.
 "Deep Item Network for Online Promotions (DINOP)"
+a novel RNN cell with a new attention network by incorporating
+target users features as the controllers rather than normal inputs.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTQwMjg4NiwtMjA5MjYzMjQzNiwtMT
-c2NTE4NTU3MCw4ODEwNTk0NDcsMTEwNTU1Njc5MCwtOTQ1MTIy
-NzY1LC0yMDA5MDcxNzg2LDEyMzM1OTcwMjMsLTM4NTU1NjczMC
-wtNzE4MTYxMDM2LC02Mzk3NDE0OTIsLTgwNzEyOTcwM119
+eyJoaXN0b3J5IjpbOTIyMTgzNjQ5LDE2NjE0MDI4ODYsLTIwOT
+I2MzI0MzYsLTE3NjUxODU1NzAsODgxMDU5NDQ3LDExMDU1NTY3
+OTAsLTk0NTEyMjc2NSwtMjAwOTA3MTc4NiwxMjMzNTk3MDIzLC
+0zODU1NTY3MzAsLTcxODE2MTAzNiwtNjM5NzQxNDkyLC04MDcx
+Mjk3MDNdfQ==
 -->
