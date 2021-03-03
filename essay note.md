@@ -125,10 +125,10 @@ transfer will hurt performance if the sources of data are too dissimilar.
 2. use part of static/dynamic feature according to the items' profiles and sales won't work in SPOP because transaction volume on specific days cannot suit well.
 3. single task learning is wasteful for multi-dimension real-time demands.
 4. LSTM & GRU treat every input fairly while user impact (indirect) &item (direct) features have different affection rate.
-
+"Deep Item Network for Online Promotions (DINOP)"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI2MzI0MzYsLTE3NjUxODU1NzAsOD
-gxMDU5NDQ3LDExMDU1NTY3OTAsLTk0NTEyMjc2NSwtMjAwOTA3
-MTc4NiwxMjMzNTk3MDIzLC0zODU1NTY3MzAsLTcxODE2MTAzNi
-wtNjM5NzQxNDkyLC04MDcxMjk3MDNdfQ==
+eyJoaXN0b3J5IjpbMTY2MTQwMjg4NiwtMjA5MjYzMjQzNiwtMT
+c2NTE4NTU3MCw4ODEwNTk0NDcsMTEwNTU1Njc5MCwtOTQ1MTIy
+NzY1LC0yMDA5MDcxNzg2LDEyMzM1OTcwMjMsLTM4NTU1NjczMC
+wtNzE4MTYxMDM2LC02Mzk3NDE0OTIsLTgwNzEyOTcwM119
 -->
