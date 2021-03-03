@@ -124,10 +124,10 @@ transfer will hurt performance if the sources of data are too dissimilar.
 1. can not utilize historical data in the promotions of previous years to train model because the the storage cost of historic data is infeasible.
 2. use part of static/dynamic feature according to the items' profiles and sales won't work in SPOP because transaction volume on specific days cannot suit well.
 3. single task learning is wasteful for multi-dimension real-time demands.
-4. 
+4. RNN tra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMDU5NDQ3LDExMDU1NTY3OTAsLTk0NT
-EyMjc2NSwtMjAwOTA3MTc4NiwxMjMzNTk3MDIzLC0zODU1NTY3
-MzAsLTcxODE2MTAzNiwtNjM5NzQxNDkyLC04MDcxMjk3MDNdfQ
-==
+eyJoaXN0b3J5IjpbLTE2OTg0ODU4ODAsODgxMDU5NDQ3LDExMD
+U1NTY3OTAsLTk0NTEyMjc2NSwtMjAwOTA3MTc4NiwxMjMzNTk3
+MDIzLC0zODU1NTY3MzAsLTcxODE2MTAzNiwtNjM5NzQxNDkyLC
+04MDcxMjk3MDNdfQ==
 -->
