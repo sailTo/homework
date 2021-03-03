@@ -123,10 +123,11 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ![Image-20210228001](https://raw.githubusercontent.com/sailTo/picturebase/master/Image-20210228001.png)Data 
 1. can not utilize historical data in the promotions of previous years to train model because the the storage cost of historic data is infeasible.
 2. use part of static/dynamic feature according to the items' profiles and sales won't work in SPOP because transaction volume on specific days cannot suit well.
-3. single task learning is wasteful for multi-dimention
+3. single task learning is wasteful for multi-dimension real-time demands.
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU2NzYwOTQsMTEwNTU1Njc5MCwtOT
-Q1MTIyNzY1LC0yMDA5MDcxNzg2LDEyMzM1OTcwMjMsLTM4NTU1
-NjczMCwtNzE4MTYxMDM2LC02Mzk3NDE0OTIsLTgwNzEyOTcwM1
-19
+eyJoaXN0b3J5IjpbODgxMDU5NDQ3LDExMDU1NTY3OTAsLTk0NT
+EyMjc2NSwtMjAwOTA3MTc4NiwxMjMzNTk3MDIzLC0zODU1NTY3
+MzAsLTcxODE2MTAzNiwtNjM5NzQxNDkyLC04MDcxMjk3MDNdfQ
+==
 -->
