@@ -127,10 +127,11 @@ transfer will hurt performance if the sources of data are too dissimilar.
 4. LSTM & GRU treat every input fairly while user impact (indirect) &item (direct) features have different affection rate.
 - "Deep Item Network for Online Promotions (DINOP)"
 - a novel RNN cell with a new attention network by incorporating target users features as the controllers rather than normal inputs.  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDM1MjUwNywxNjE5MDc5ODY3LDE2Nj
-E0MDI4ODYsLTIwOTI2MzI0MzYsLTE3NjUxODU1NzAsODgxMDU5
-NDQ3LDExMDU1NTY3OTAsLTk0NTEyMjc2NSwtMjAwOTA3MTc4Ni
-wxMjMzNTk3MDIzLC0zODU1NTY3MzAsLTcxODE2MTAzNiwtNjM5
-NzQxNDkyLC04MDcxMjk3MDNdfQ==
+eyJoaXN0b3J5IjpbLTExMzcxMTA1NTEsMTU3NDM1MjUwNywxNj
+E5MDc5ODY3LDE2NjE0MDI4ODYsLTIwOTI2MzI0MzYsLTE3NjUx
+ODU1NzAsODgxMDU5NDQ3LDExMDU1NTY3OTAsLTk0NTEyMjc2NS
+wtMjAwOTA3MTc4NiwxMjMzNTk3MDIzLC0zODU1NTY3MzAsLTcx
+ODE2MTAzNiwtNjM5NzQxNDkyLC04MDcxMjk3MDNdfQ==
 -->
