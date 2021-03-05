@@ -130,12 +130,14 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ![image-20210305175220809](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305175220809.png)![image-20210305180100390](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180100390.png)![image-20210305180136535](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180136535.png)![image-20210305180601300](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180601300.png)
 ![image-20210305181358131](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181358131.png)![image-20210305181409035](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181409035.png)
 ![image-20210305181417631](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181417631.png)
-![image-20210305181342984](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181342984.png)
+![image-20210305181342984](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181342984.png)- the SPOP’s inputs contain two main types of data: the
+static features reflecting the inherent profies or the stable states for a long period before the promotions, and the dynamic features indicating the daily information during the pre-sales period.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNTQ0NjMxLDE4MjY2NjUyMjUsLTkwOT
-I5NTE0MCwxNjU4OTkyODI4LDE1NzQzNTI1MDcsMTYxOTA3OTg2
-NywxNjYxNDAyODg2LC0yMDkyNjMyNDM2LC0xNzY1MTg1NTcwLD
-g4MTA1OTQ0NywxMTA1NTU2NzkwLC05NDUxMjI3NjUsLTIwMDkw
-NzE3ODYsMTIzMzU5NzAyMywtMzg1NTU2NzMwLC03MTgxNjEwMz
-YsLTYzOTc0MTQ5MiwtODA3MTI5NzAzXX0=
+eyJoaXN0b3J5IjpbMTAzMjI0MDM1MSw2NjI1NDQ2MzEsMTgyNj
+Y2NTIyNSwtOTA5Mjk1MTQwLDE2NTg5OTI4MjgsMTU3NDM1MjUw
+NywxNjE5MDc5ODY3LDE2NjE0MDI4ODYsLTIwOTI2MzI0MzYsLT
+E3NjUxODU1NzAsODgxMDU5NDQ3LDExMDU1NTY3OTAsLTk0NTEy
+Mjc2NSwtMjAwOTA3MTc4NiwxMjMzNTk3MDIzLC0zODU1NTY3Mz
+AsLTcxODE2MTAzNiwtNjM5NzQxNDkyLC04MDcxMjk3MDNdfQ==
+
 -->
