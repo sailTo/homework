@@ -128,18 +128,14 @@ transfer will hurt performance if the sources of data are too dissimilar.
 - "Deep Item Network for Online Promotions (DINOP)"
 - a novel RNN cell with a new attention network by incorporating target users features as the controllers rather than normal inputs.  
 ![image-20210305175220809](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305175220809.png)![image-20210305180100390](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180100390.png)![image-20210305180136535](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180136535.png)![image-20210305180601300](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180601300.png)
-![image-20210305181342984](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181342984.png)
-
-![image-20210305181358131](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181358131.png)
-
-![image-20210305181409035](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181409035.png)
-
+![image-20210305181358131](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181358131.png)![image-20210305181409035](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181409035.png)
 ![image-20210305181417631](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181417631.png)
+![image-20210305181342984](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181342984.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzYwOTE4OSwxODI2NjY1MjI1LC05MD
-kyOTUxNDAsMTY1ODk5MjgyOCwxNTc0MzUyNTA3LDE2MTkwNzk4
-NjcsMTY2MTQwMjg4NiwtMjA5MjYzMjQzNiwtMTc2NTE4NTU3MC
-w4ODEwNTk0NDcsMTEwNTU1Njc5MCwtOTQ1MTIyNzY1LC0yMDA5
-MDcxNzg2LDEyMzM1OTcwMjMsLTM4NTU1NjczMCwtNzE4MTYxMD
-M2LC02Mzk3NDE0OTIsLTgwNzEyOTcwM119
+eyJoaXN0b3J5IjpbNjYyNTQ0NjMxLDE4MjY2NjUyMjUsLTkwOT
+I5NTE0MCwxNjU4OTkyODI4LDE1NzQzNTI1MDcsMTYxOTA3OTg2
+NywxNjYxNDAyODg2LC0yMDkyNjMyNDM2LC0xNzY1MTg1NTcwLD
+g4MTA1OTQ0NywxMTA1NTU2NzkwLC05NDUxMjI3NjUsLTIwMDkw
+NzE3ODYsMTIzMzU5NzAyMywtMzg1NTU2NzMwLC03MTgxNjEwMz
+YsLTYzOTc0MTQ5MiwtODA3MTI5NzAzXX0=
 -->
