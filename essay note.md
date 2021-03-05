@@ -128,11 +128,18 @@ transfer will hurt performance if the sources of data are too dissimilar.
 - "Deep Item Network for Online Promotions (DINOP)"
 - a novel RNN cell with a new attention network by incorporating target users features as the controllers rather than normal inputs.  
 ![image-20210305175220809](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305175220809.png)![image-20210305180100390](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180100390.png)![image-20210305180136535](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180136535.png)![image-20210305180601300](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305180601300.png)
+![image-20210305181342984](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181342984.png)
+
+![image-20210305181358131](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181358131.png)
+
+![image-20210305181409035](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181409035.png)
+
+![image-20210305181417631](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181417631.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjY2NTIyNSwtOTA5Mjk1MTQwLDE2NT
-g5OTI4MjgsMTU3NDM1MjUwNywxNjE5MDc5ODY3LDE2NjE0MDI4
-ODYsLTIwOTI2MzI0MzYsLTE3NjUxODU1NzAsODgxMDU5NDQ3LD
-ExMDU1NTY3OTAsLTk0NTEyMjc2NSwtMjAwOTA3MTc4NiwxMjMz
-NTk3MDIzLC0zODU1NTY3MzAsLTcxODE2MTAzNiwtNjM5NzQxND
-kyLC04MDcxMjk3MDNdfQ==
+eyJoaXN0b3J5IjpbLTg1MzYwOTE4OSwxODI2NjY1MjI1LC05MD
+kyOTUxNDAsMTY1ODk5MjgyOCwxNTc0MzUyNTA3LDE2MTkwNzk4
+NjcsMTY2MTQwMjg4NiwtMjA5MjYzMjQzNiwtMTc2NTE4NTU3MC
+w4ODEwNTk0NDcsMTEwNTU1Njc5MCwtOTQ1MTIyNzY1LC0yMDA5
+MDcxNzg2LDEyMzM1OTcwMjMsLTM4NTU1NjczMCwtNzE4MTYxMD
+M2LC02Mzk3NDE0OTIsLTgwNzEyOTcwM119
 -->
