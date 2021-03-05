@@ -131,9 +131,9 @@ transfer will hurt performance if the sources of data are too dissimilar.
 ![image-20210305181358131](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181358131.png)![image-20210305181409035](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181409035.png)
 ![image-20210305181417631](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181417631.png)
 ![image-20210305181342984](https://raw.githubusercontent.com/sailTo/picturebase/master/image-20210305181342984.png)- the SPOP’s inputs contain two main types of data: the
-static features reflecting the inherent profies or the stable states for a long period before the promotions, and the dynamic features indicating the daily information during the pre-sales period.
+static features reflecting the inherent profiles or the stable states for a long period before the promotions, and the dynamic features indicating the daily information during the pre-sales period.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjI0MDM1MSw2NjI1NDQ2MzEsMTgyNj
+eyJoaXN0b3J5IjpbLTM0MzYyODE4MSw2NjI1NDQ2MzEsMTgyNj
 Y2NTIyNSwtOTA5Mjk1MTQwLDE2NTg5OTI4MjgsMTU3NDM1MjUw
 NywxNjE5MDc5ODY3LDE2NjE0MDI4ODYsLTIwOTI2MzI0MzYsLT
 E3NjUxODU1NzAsODgxMDU5NDQ3LDExMDU1NTY3OTAsLTk0NTEy
