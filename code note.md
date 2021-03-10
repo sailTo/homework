@@ -26,7 +26,8 @@ $$
 $$
 (1-\sum^p_{i=1}\varphi_iL^i)Y_t=(1+\sum^q_{i=1}\theta_iL^i)\varepsilon_t
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODQ1NDM2LDE2MTQ1MjAxMTIsLTE4Mz
-M2OTM0NywxOTczMTIxMTY1XX0=
+eyJoaXN0b3J5IjpbOTI1Nzk0Njc0LC00NTg0NTQzNiwxNjE0NT
+IwMTEyLC0xODMzNjkzNDcsMTk3MzEyMTE2NV19
 -->
