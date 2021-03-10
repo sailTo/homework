@@ -17,6 +17,9 @@ online 训练集用户与测试集用户重复数量
 43155.0
 online 训练集用户与测试集重复用户在总测试集用户中的占比
 0.5655296229802513
+
+## ARIMA
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzEyMTE2NV19
+eyJoaXN0b3J5IjpbMTk2MDgxMTU5NSwxOTczMTIxMTY1XX0=
 -->
