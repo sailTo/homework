@@ -22,9 +22,11 @@ online 训练集用户与测试集重复用户在总测试集用户中的占比
 It can be viewed as a "cascade" of 2 models
 $$
 Y_t=(1-L)^dX_t
-(1-\sum^p_{i=1}\phi_iL^i)Y_t=(
+$$
+$$
+(1-\sum^p_{i=1}\phi_iL^i)Y_t=(1+\sum^q_{i=1}\theta_iL^i)\epsilon_t
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTUxODIzOSwtMTgzMzY5MzQ3LDE5Nz
+eyJoaXN0b3J5IjpbMTYxNDUyMDExMiwtMTgzMzY5MzQ3LDE5Nz
 MxMjExNjVdfQ==
 -->
