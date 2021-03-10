@@ -24,9 +24,9 @@ $$
 Y_t=(1-L)^dX_t
 $$
 $$
-(1-\sum^p_{i=1}\phi_iL^i)Y_t=(1+\sum^q_{i=1}\theta_iL^i)\epsilon_t
+(1-\sum^p_{i=1}\varphi_iL^i)Y_t=(1+\sum^q_{i=1}\theta_iL^i)\varepsilon_t
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDUyMDExMiwtMTgzMzY5MzQ3LDE5Nz
-MxMjExNjVdfQ==
+eyJoaXN0b3J5IjpbLTQ1ODQ1NDM2LDE2MTQ1MjAxMTIsLTE4Mz
+M2OTM0NywxOTczMTIxMTY1XX0=
 -->
