@@ -30,10 +30,10 @@ $$
 |name| - | + | data|
 |---|---|---|---|
 |f_t_dt|Date_R,Date|Date_R,Date|of,t|
-|g_of_f|   |u_&m_|
-|   |   |   |
+
+g_of_f & g_on_f: replace 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA3NDk0OTEsMTc2MDgyOTcyMyw5Mj
+eyJoaXN0b3J5IjpbLTIwOTk4MTQ0NDMsMTc2MDgyOTcyMyw5Mj
 U3OTQ2NzQsLTQ1ODQ1NDM2LDE2MTQ1MjAxMTIsLTE4MzM2OTM0
 NywxOTczMTIxMTY1XX0=
 -->
