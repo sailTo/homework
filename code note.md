@@ -27,10 +27,13 @@ $$
 (1-\sum^p_{i=1}\varphi_iL^i)Y_t=(1+\sum^q_{i=1}\theta_iL^i)\varepsilon_t
 $$
 ## func describe
+|name| - | + |
 |---|---|---|
-|float_to_datetime|
+|f_t_dt|Date_R,Date|Date_R,Date   |
+|   |   |   |
+|   |   |   |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjM0MDAsOTI1Nzk0Njc0LC00NTg0NT
-QzNiwxNjE0NTIwMTEyLC0xODMzNjkzNDcsMTk3MzEyMTE2NV19
-
+eyJoaXN0b3J5IjpbNzMzMzgwNTM1LDkyNTc5NDY3NCwtNDU4ND
+U0MzYsMTYxNDUyMDExMiwtMTgzMzY5MzQ3LDE5NzMxMjExNjVd
+fQ==
 -->
