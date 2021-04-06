@@ -31,9 +31,9 @@ $$
 |---|---|---|---|
 |f_t_dt|Date_R,Date|Date_R,Date|of,t|
 
-g_of_f & g_on_f: replace 
+g_of_f & g_on_f: add feature to test data by off & on data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk4MTQ0NDMsMTc2MDgyOTcyMyw5Mj
-U3OTQ2NzQsLTQ1ODQ1NDM2LDE2MTQ1MjAxMTIsLTE4MzM2OTM0
-NywxOTczMTIxMTY1XX0=
+eyJoaXN0b3J5IjpbODQxNjczMTQ0LDE3NjA4Mjk3MjMsOTI1Nz
+k0Njc0LC00NTg0NTQzNiwxNjE0NTIwMTEyLC0xODMzNjkzNDcs
+MTk3MzEyMTE2NV19
 -->
