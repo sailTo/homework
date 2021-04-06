@@ -30,11 +30,11 @@ $$
 |name| - | + | data|
 |---|---|---|---|
 |f_t_dt|Date_R,Date|Date_R,Date|of,t|
-
+|gWD|||of,t|
 
 g_of_f & g_on_f: add feature to test data by off & on data
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE4ODE4MTgsODQxNjczMTQ0LDE3Nj
-A4Mjk3MjMsOTI1Nzk0Njc0LC00NTg0NTQzNiwxNjE0NTIwMTEy
-LC0xODMzNjkzNDcsMTk3MzEyMTE2NV19
+eyJoaXN0b3J5IjpbODAzNjcwMDI5LDg0MTY3MzE0NCwxNzYwOD
+I5NzIzLDkyNTc5NDY3NCwtNDU4NDU0MzYsMTYxNDUyMDExMiwt
+MTgzMzY5MzQ3LDE5NzMxMjExNjVdfQ==
 -->
