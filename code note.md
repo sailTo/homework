@@ -26,8 +26,10 @@ $$
 $$
 (1-\sum^p_{i=1}\varphi_iL^i)Y_t=(1+\sum^q_{i=1}\theta_iL^i)\varepsilon_t
 $$
-
+## func describe
+float_to_datetime: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1Nzk0Njc0LC00NTg0NTQzNiwxNjE0NT
-IwMTEyLC0xODMzNjkzNDcsMTk3MzEyMTE2NV19
+eyJoaXN0b3J5IjpbMTIxNDA0NTg0OSw5MjU3OTQ2NzQsLTQ1OD
+Q1NDM2LDE2MTQ1MjAxMTIsLTE4MzM2OTM0NywxOTczMTIxMTY1
+XX0=
 -->
