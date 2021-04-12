@@ -33,8 +33,14 @@ $$
 |gWD|||of,t|
 
 g_of_f & g_on_f: add feature to test data by off & on data
+
+## feature construct
+|feature|describe|
+|---|---|
+|u2|用户优惠券消费次数|
+|u3|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzNjcwMDI5LDg0MTY3MzE0NCwxNzYwOD
-I5NzIzLDkyNTc5NDY3NCwtNDU4NDU0MzYsMTYxNDUyMDExMiwt
-MTgzMzY5MzQ3LDE5NzMxMjExNjVdfQ==
+eyJoaXN0b3J5IjpbLTI0OTA3ODI1OSw4MDM2NzAwMjksODQxNj
+czMTQ0LDE3NjA4Mjk3MjMsOTI1Nzk0Njc0LC00NTg0NTQzNiwx
+NjE0NTIwMTEyLC0xODMzNjkzNDcsMTk3MzEyMTE2NV19
 -->
