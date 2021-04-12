@@ -48,11 +48,15 @@ g_of_f & g_on_f: add feature to test data by off & on data
 |u35|核销优惠券用户-商家平均距离|
 |u36|用户核销优惠券中的最小用户-商家距离|
 |u37|用户核销优惠券中的最大用户-商家距离|
-|m0|商家销售次数
+|m0|商家销售次数|
+|m1|商家优惠券核销次数|
+|m2|商家普通销售次数|
+|m3|商家优惠券被领取次数|
+|m4|商家优惠券核销率|
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTYzMDY4Miw4MDM2NzAwMjksODQxNj
+eyJoaXN0b3J5IjpbMTQ3NTg5MDIyNyw4MDM2NzAwMjksODQxNj
 czMTQ0LDE3NjA4Mjk3MjMsOTI1Nzk0Njc0LC00NTg0NTQzNiwx
 NjE0NTIwMTEyLC0xODMzNjkzNDcsMTk3MzEyMTE2NV19
 -->
