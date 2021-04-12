@@ -53,10 +53,23 @@ g_of_f & g_on_f: add feature to test data by off & on data
 |m2|商家普通销售次数|
 |m3|商家优惠券被领取次数|
 |m4|商家优惠券核销率|
-
+|m16|商家在数据集中出现的次数|
+|m20|商家被核销优惠券的平均时间|
+|m21||
+|c1||
+|c2||
+|c3||
+|c6||
+|c12||
+|um1||
+|um3||
+|um4||
+|||
+|||
+|||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTg5MDIyNyw4MDM2NzAwMjksODQxNj
-czMTQ0LDE3NjA4Mjk3MjMsOTI1Nzk0Njc0LC00NTg0NTQzNiwx
-NjE0NTIwMTEyLC0xODMzNjkzNDcsMTk3MzEyMTE2NV19
+eyJoaXN0b3J5IjpbNTE1NDk3Mjk5LDgwMzY3MDAyOSw4NDE2Nz
+MxNDQsMTc2MDgyOTcyMyw5MjU3OTQ2NzQsLTQ1ODQ1NDM2LDE2
+MTQ1MjAxMTIsLTE4MzM2OTM0NywxOTczMTIxMTY1XX0=
 -->
